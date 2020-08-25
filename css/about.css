@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>We Social You</title>
+    <link rel="stylesheet" href="css/style.css">
+
+   
+
+</head>
+<body>
+    <div id="container">
+        <div id="nav-bar">
+            <a class="flex-usage" href="index.html">Home</a>
+            <a class="flex-usage" href="about.html">About Me</a>
+            <a class="flex-usage" href="contact.html">Contact</a>
+
+        </div>
+        <div id="main-photo">
+            <img src="assets/ekuseyAugust.jpg" alt="Boma-hamla" width="100%" height="400">
+        </div>
+
+        <div class="article-one">
+            <h1>How I have become a Physicial</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt odio, laboriosam dignissimos quam vel in possimus earum neque ab quos fuga minima facere debitis facilis vero repellat atque ipsam veniam nulla, qui, minus quibusdam maiores? Necessitatibus exercitationem deserunt veniam blanditiis sunt, ipsum molestiae consequuntur sit explicabo, accusamus repudiandae modi culpa!</p>
+
+        </div>
+        <div class="article-one">
+            <h1>How to grow with YouTube</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores ducimus harum rem quaerat, qui cum quos perspiciatis earum ex nihil rerum suscipit cumque cupiditate possimus. Ullam suscipit quos est aliquam vero optio nostrum sapiente iure nobis, repellendus error sed aspernatur dolorum numquam eligendi voluptate soluta enim officiis ea excepturi rem.</p>
+            
+        </div>
+        <div class="article-one">
+            <h1>How to learn Web Design?</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum facilis tempore consequatur aliquid iusto dolorem voluptatum nobis accusantium odit earum quis ipsam, laborum pariatur mollitia. Quos, aliquam. Laudantium, nulla odio.</p>
+        </div>
+        <footer id="myFooter">
+
+            <p>Thank you for visiting!</p>
+            <p>Copyright @ 2020</p>
+            <p>Contact: 01010101010101</p>
+            <p>Email: abc@gmail.com</p>
+
+        </footer>
+
+
+
+
+    </div>
+    
+</body>
+</html>

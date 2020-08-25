@@ -1,0 +1,34 @@
+#container {
+    height: auto;
+    width: 100%;
+    background-color: lightgreen;
+    margin: 50px;
+    padding: 50px;
+    border: .05px gold solid;
+
+}
+
+
+#nav-bar {
+    height: 75px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-size: 32px;
+    margin: 100px;
+    padding: 20px;
+
+}
+
+#nav-bar a {
+    color: tomato;
+}
+
+
+#myFooter {
+    background-color: tomato;
+    width: 90%;
+    height: 200px;
+    color: crimson;
+
+}
