@@ -1,6 +1,6 @@
 #container {
     height: auto;
-    width: 100%;
+    width: 1200px;
     background-color: lightgreen;
     margin: 50px;
     padding: 50px;
@@ -8,11 +8,10 @@
 
 }
 
-
+/*Navigation starts */
 #nav-bar {
     height: 75px;
     width: 100%;
-    background-color: black;
     color: white;
     font-size: 32px;
     margin: 100px;
@@ -20,15 +19,45 @@
 
 }
 
+
+
 #nav-bar a {
     color: tomato;
+} /*Navigation bars ends*/
+
+
+/*Articles starts */
+.articles {
+    height: 300px;
+    width: 355px;
+    border: 1px crimson dotted;
+    padding: 20px; 
+    float: left;
+
 }
 
+.clear {
+    clear: both;
+}
+
+/*Footer area starts */
 
 #myFooter {
     background-color: tomato;
-    width: 90%;
+    width: 95%;
     height: 200px;
-    color: crimson;
+    color: black;
+    text-align: center;
+    padding: 25px;
+    font-size: 25px;
+    border-radius: 10px;
+    margin-top: 10px;
+
+} 
+
+#myFooter p {
 
 }
+
+
+/*Footer area ends */
